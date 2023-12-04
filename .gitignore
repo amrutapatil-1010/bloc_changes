@@ -42,3 +42,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+bloc_communication/bloc_updates/bloc_updates/ios/Podfile
+bloc_communication/bloc_updates/bloc_updates/ios/Podfile.lock
+bloc_communication/bloc_updates/bloc_updates/pubspec.lock
+bloc_communication/bloc_updates/bloc_updates/ios/Flutter/Debug.xcconfig
+bloc_communication/bloc_updates/bloc_updates/macos/Podfile
+bloc_communication/bloc_updates/bloc_updates/windows/flutter/generated_plugin_registrant.cc
+bloc_communication/bloc_updates/bloc_updates/windows/flutter/generated_plugins.cmake
